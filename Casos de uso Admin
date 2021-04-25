@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-04-25T20:37:07.186Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="ZviSz4EqbnGYzdr10x5M" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-25T20:38:09.730Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="-Qq7-86gNw8apZR7baUJ" version="14.6.6" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="2314" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lGtRhhO8DRNe9d_t-MUR-42" value="CU - Asesor" style="shape=umlFrame;whiteSpace=wrap;html=1;width=90;height=20;swimlaneFillColor=none;" parent="1" vertex="1">
+        <mxCell id="lGtRhhO8DRNe9d_t-MUR-42" value="CU - Admin" style="shape=umlFrame;whiteSpace=wrap;html=1;width=90;height=20;swimlaneFillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1040" y="10" width="170" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="lGtRhhO8DRNe9d_t-MUR-41" value="Asesor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+        <mxCell id="lGtRhhO8DRNe9d_t-MUR-41" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1120" y="80" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lGtRhhO8DRNe9d_t-MUR-45" value="Visualizar página principal asesor" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="lGtRhhO8DRNe9d_t-MUR-45" value="Visualizar página principal administrador" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1000" y="50" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lGtRhhO8DRNe9d_t-MUR-49" value="ABM análisis económicos" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="lGtRhhO8DRNe9d_t-MUR-49" value="ABM usuarios" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1000" y="130" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lGtRhhO8DRNe9d_t-MUR-50" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="lGtRhhO8DRNe9d_t-MUR-45" edge="1">
